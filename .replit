@@ -1,0 +1,5 @@
+entrypoint = "index.js"
+run = "node index.js"
+
+[deployment]
+run = "node index.js"
